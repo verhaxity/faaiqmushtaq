@@ -585,6 +585,7 @@ textarea:focus {
       color: #dfdfdf;
       font-size: 14px;
       letter-spacing: 2px;
+      transition: .5s ease-in-out;
 }
 
 .send:hover {
