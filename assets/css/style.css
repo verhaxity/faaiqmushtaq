@@ -330,7 +330,7 @@ h6 {
 }
 
 .project2::after {
-      content: "foretime.";
+      content: "Kashmir Remedy.";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -349,7 +349,7 @@ h6 {
 }
 
 .project3::after {
-      content: "never again.";
+      content: "UI/UX PROJECTS.";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -368,7 +368,7 @@ h6 {
 }
 
 .project4::after {
-      content: "departure.";
+      content: "REGIONAL WEATHER STATION UPDATES.";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
