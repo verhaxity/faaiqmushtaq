@@ -1,2 +1,2 @@
 # faaiqmushtaq
-<a href="[faaiq.online](https://faaiq.online/)">live</a>
+<a href="https://faaiq.online/">live</a>
